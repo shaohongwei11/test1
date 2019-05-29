@@ -7,6 +7,7 @@ public class test1 {
     System.out.println("sss");
     System.out.println("ddd");
     System.out.println("fff");
+    System.out.println("ggg");
 	}
 
 }
